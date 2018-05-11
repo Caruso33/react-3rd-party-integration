@@ -7,4 +7,4 @@
 ## Remarks
 
 * Please use your own API Key in the public/index.html file
-* example includes google map javascript implementation
+* example includes (google map javascript implementation)[https://developers.google.com/maps/documentation/javascript/interaction]
